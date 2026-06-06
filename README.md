@@ -60,6 +60,9 @@ Rather than concatenating feature vectors (which bloats edge-device memory), the
                                     [w1*Ear] + [w2*Palm] + [w3*(Ear ∘ Palm)]
                                                        |
                                               [Decision Threshold]
+
+---
+
 ## 4. Experimental Results
 
 The architecture was validated on a simulated edge-constrained dataset consisting of 100 common subjects under a severe 4-Shot enrollment protocol.

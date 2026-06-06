@@ -1,4 +1,7 @@
-# MODEL IMAGE
+# Edge-Optimized Few-Shot Multimodal Biometric Authentication via Chiral Siamese Networks and h(PRS-PDO) Fusion
+
+**Target Venue:** IEEE International Conference on Consumer Electronics (ICCE)
+**Application Domain:** Edge AI, Biometric Security, Few-Shot Learning (FSL)
 
 ## Novelty/Innovation:
 - *Edge-optimized topographic preprocessing replaces O(N²) denoising with a linear-time O(N/s²) Fast Guided Filter (FGF) pipeline via 255–I inversion, drastically reducing battery drain on consumer edge devices.*
